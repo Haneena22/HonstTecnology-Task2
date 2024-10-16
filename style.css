@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 800px;
+}
+.div{
+    margin: 100px;
+    margin: 20px 40px;
+    padding: 20px;
+    font-family: Monospace;
+    font-size: 24px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background: rgba(128, 128, 128, 0.089);
+}
+div .heading{
+    font-weight: bold;
+    color: #00698f;
+}
+div .span-text{
+    text-transform: uppercase;
+    font-size: 18px;
+    color: gray;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 1px solid #ccc;
+}
+.p1{
+    border-style: solid dashed  ;
+    border-width: 5px;
+    border-color: red;
+    text-justify: distribute;
+    padding: 10px;
+    color: #666;
+
+}
+.p2{
+    line-height: 25px;
+    text-align: center;
+    font-style: italic;
+    color: #666;
+
+}
+
+li{
+    font-size: 18px;
+    color: #666;
+}
